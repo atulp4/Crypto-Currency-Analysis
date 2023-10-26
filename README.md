@@ -1,7 +1,7 @@
 # Crypto-Currency-Analysis
 
 ## Bitcoin Technical Analysis
-This project performs basic technical analysis on Bitcoin price data to identify potential long or short trade opportunities.
+This project performs basic technical analysis on Bitcoin price data to identify potential long or short trade opportunities. It was undertaken as an UPWORK freelance consulting project.
 
 ## Data
 The data used is 1-minute candlestick data for Bitcoin (BTC/USDT) from Binance exchange. The raw CSV data is preprocessed to convert columns to appropriate datatypes and set the 'date' column as the index.
